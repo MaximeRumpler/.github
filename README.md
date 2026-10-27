@@ -10,5 +10,6 @@ GitHub shows these files in any public repository of this account that does not 
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to propose a change |
 | [SECURITY.md](SECURITY.md) | How to report a vulnerability privately |
 | [SUPPORT.md](SUPPORT.md) | Where to ask for help |
+| [.github/](.github/) | Issue forms ("It didn't work", "Idea") and the pull request template |
 
 Licence: [EUPL-1.2](LICENSE).

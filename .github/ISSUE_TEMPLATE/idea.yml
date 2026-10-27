@@ -1,0 +1,15 @@
+name: Idea or improvement
+description: Suggest a change or a new feature.
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the need first, then the solution you have in mind if any.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Example or context
+      description: A request you would make, a deck you would want, or a screenshot.
